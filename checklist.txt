@@ -1,0 +1,6 @@
+TO DO:
+[-] Scrape TFRRS
+  [-] Find a TFFRS endpoint that returns info about XC meets in a certain year
+  [-] Turn response into a Python list of models.Meet objects (without results data)
+  [-] Find a TFFRS endpoint that returns info about a specific XC meet
+  [-] Turn response into models.Meet object with full results
