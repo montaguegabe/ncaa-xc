@@ -4,3 +4,6 @@ TO DO:
   [-] Turn response into a Python list of models.Meet objects (without results data)
   [-] Find a TFFRS endpoint that returns info about a specific XC meet
   [-] Turn response into models.Meet object with full results
+
+[-] Look up milesplit team rankings as one basis for comparing fair results
+
