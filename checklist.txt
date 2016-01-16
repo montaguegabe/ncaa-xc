@@ -7,3 +7,6 @@ TO DO:
 
 [-] Look up milesplit team rankings as one basis for comparing fair results
 
+[-] Create different algorithms to test our algorithm against (other than current one)
+  [-] Tyler's algorithm
+  [-] Louie's algorithm
